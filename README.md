@@ -1,6 +1,6 @@
 # Hey :wave: I'm Carter Long 👨‍💻
 
-I'm a full-stack engineer based out of Boulder, CO. Most recently, I've been working on Spearmint, an open-source, accessibility-forward GUI, built for developers by developers, for generating clean, semantic Javascript tests.
+I'm a full-stack engineer based out of Boulder, CO. Most recently, I've been working on Spearmint, an open-source, accessibility-forward GUI, for generating clean, semantic Javascript tests.
 
 Connect with me: 
 
