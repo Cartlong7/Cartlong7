@@ -28,4 +28,4 @@ Tech Stack:
 
 <!-- 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cartlong7) -->
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cartlong7)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cartlong7&theme=react)
