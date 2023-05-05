@@ -1,7 +1,5 @@
 # Hey :wave: I'm Carter Long 👨‍💻
 
-<img src='https://wallpapercave.com/wp/wp5389046.jpg' alt='flatirons'>
-
 I'm a full-stack engineer based out of Boulder, CO. Most recently, I've been working on Spearmint, an open-source, accessibility-forward GUI, for generating clean, semantic Javascript tests.
 
 Connect with me: 
