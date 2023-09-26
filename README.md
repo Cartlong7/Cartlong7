@@ -1,6 +1,6 @@
 # Hey, I'm Carter Long ⛰️
 
-I'm a full-stack engineer based in the Greater Denver Area, with a passion for contributing to engineering teams excited about delivering quality customer and developer experiences. I thrive on challenges and continuously seek opportunities to expand my technical expertise. I work as a Software Engineer @ Spearmint(OSLabs) - an open-source desktop application used for generating JavaScript tests for developers.
+I'm a full-stack engineer based in the Greater Denver Area, with a passion for contributing to engineering teams excited about delivering quality customer and developer experiences. I thrive on challenges and continuously seek opportunities to expand my technical expertise. Most recently, I've been a Software Engineer with Spearmint, where I have worked extensively across the stack.
 
 When I'm not working, I enjoy hiking 🥾, skiing 🎿, and climbing 🧗 in the mountains of Colorado.
 
